@@ -17,7 +17,7 @@ export function Footer() {
           </div>
           <div>
             <a 
-              href="https://github.com" 
+              href="https://github.com/quatrecentdouze/nohello-412" 
               target="_blank" 
               rel="noopener noreferrer" 
               className="inline-flex items-center gap-2 px-4 py-2 rounded-lg bg-gray-800/50 hover:bg-gray-800 
